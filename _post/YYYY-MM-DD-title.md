@@ -1,6 +1,5 @@
-Date
 ---
-Today is 
-YYYY-MM-DD
+titel: Today
+date: 2021-07-01
 ---
-you can check it out here...
+
